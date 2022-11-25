@@ -30,3 +30,4 @@ tuning so that data scientists can spend more time on business problems on hand 
 * On right hand side of the screen click on download button.
 * After the file is downloaded, unzip it. Go into project folder in your terminal and run command "streamlit run app.py"
 * To run the demo version, paste "https://8189-102-89-34-12.eu.ngrok.io" in your browser
+* Other installation methods (HOW TO USE A GIT REPOSITORY AS A PIP DEPENDENCY), use this link https://matiascodesal.com/blog/how-use-git-repository-pip-dependency/
