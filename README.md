@@ -1,4 +1,4 @@
-# Automated Machine Learning Pipeline #
+# Automated Machine Learning Pipeline Application #
 > This application is in development phase 
 > 
 
