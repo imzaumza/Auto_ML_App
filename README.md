@@ -16,7 +16,7 @@ tuning so that data scientists can spend more time on business problems on hand 
 ## What this application does: ##
 * improve efficiency by automatically running repetitive tasks. This allows data scientists to focus more on problems instead of models.
 * Automated ML pipelines also help avoid potential errors caused by manual work.
-* AutoML is a big step toward the democratization of machine learning and allows everyone to use ML features.
+* Democratization of machine learning features.
 * Create a model, perform stratified cross validation and evaluate classification metrics
 * Automatically tune the hyper-parameters of a classification model
 * Analyze model performance using various plots
