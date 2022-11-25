@@ -1,8 +1,9 @@
 # Automated Machine Learning Pipeline #
 > This application is in development phase 
+> 
 
 ## Project Description ##
-_The objective of this application is to automate ML workflows and implement AutoML solutions._
+__The objective of this application is to automate ML workflows and implement AutoML solutions.__
 
 * The pipeline starts with ingesting raw data, which is then engineered to suit algorithm and domain
 requirements by leveraging data cleaning and feature engineering techniques. A ML model is then
@@ -12,7 +13,7 @@ deployed and used for production. *
 * The essence of AutoML is to automate repetitive tasks such as pipeline creation and hyper-parameter 
 tuning so that data scientists can spend more time on business problems on hand in practical scenarios. *
 
-## SWhat this application does: ##
+## What this application does: ##
 * improve efficiency by automatically running repetitive tasks. This allows data scientists to focus more on problems instead of models.
 * Automated ML pipelines also help avoid potential errors caused by manual work.
 * AutoML is a big step toward the democratization of machine learning and allows everyone to use ML features.
