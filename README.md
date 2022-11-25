@@ -1,8 +1,8 @@
 # Automated Machine Learning Pipeline #
-*This application is in development phase 
+> This application is in development phase 
 
 ## Project Description ##
-*The objective of this application is to automate ML workflows and implement AutoML solutions. 
+_The objective of this application is to automate ML workflows and implement AutoML solutions._
 
 * The pipeline starts with ingesting raw data, which is then engineered to suit algorithm and domain
 requirements by leveraging data cleaning and feature engineering techniques. A ML model is then
@@ -24,7 +24,7 @@ tuning so that data scientists can spend more time on business problems on hand 
 * Save / load a model for future use
 
 ## How to Install/Use this Project ##
-** You can find the project here: https://github.com/imzaumza/Auto_ML_App.git 
+* You can find the project here: https://github.com/imzaumza/Auto_ML_App.git 
 
 * On right hand side of the screen click on download button.
 * After the file is downloaded, unzip it. Go into project folder in your terminal and run command "streamlit run app.py"
